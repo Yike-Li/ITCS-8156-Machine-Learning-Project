@@ -1,5 +1,5 @@
 # ITCS-8156-Project
-EDA.py is the EDA analysis of the data.
+EDA.py is the EDA analysis code.
 
 Main_MLR.py gives the main body of the code.
 
